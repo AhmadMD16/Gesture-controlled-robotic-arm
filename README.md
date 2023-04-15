@@ -14,5 +14,5 @@ The components used for this build are:
 The schematic of the build: Coming soon!
 ![Schematic]()
 
-<h><img align="left" src="https://github.com/AhmadMD16/Gesture-controlled-robotic-arm/blob/main/gifs/ACCELEROMETER.gif"</h>
-<h><img align="left" src="https://github.com/AhmadMD16/Gesture-controlled-robotic-arm/blob/main/gifs/FLEX.gif"</h>
+<img width="50%" align="left" src="https://github.com/AhmadMD16/Gesture-controlled-robotic-arm/blob/main/gifs/ACCELEROMETER.gif"/>
+<img width="50%" align="left" src="https://github.com/AhmadMD16/Gesture-controlled-robotic-arm/blob/main/gifs/FLEX.gif"/>
