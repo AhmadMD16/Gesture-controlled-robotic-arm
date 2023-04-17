@@ -1,6 +1,6 @@
 # Gesture-controlled-robotic-arm
 
-Description of the project...
+Description of the project
 
 ![3D-model](https://github.com/AhmadMD16/Gesture-controlled-robotic-arm/blob/main/images/ROBOT_ARM.png)
 
