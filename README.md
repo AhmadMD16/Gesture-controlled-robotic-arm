@@ -29,7 +29,7 @@ The components used for this build are:
 * Custom glove PCB
 
 The schematic of the build:
-![Schematic](https://github.com/AhmadMD16/Gesture-controlled-robotic-arm/blob/main/images/SCHEMATIC.png)
+![Wiring diagram](images/WIRING_DIAGRAM.png)
 
 The PCB designed for the glove:
 ![PCB](https://github.com/AhmadMD16/Gesture-controlled-robotic-arm/blob/main/images/PCB_FRONT.png)
