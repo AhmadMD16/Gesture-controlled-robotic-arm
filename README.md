@@ -18,7 +18,7 @@ A custom PCB was designed for the glove so all sensors connect neatly to the Ard
 
 The components used for this build are: 
 
-* 2x Arduino (Nano on the glove)
+* Arduino Nano (glove) and Arduino Uno (robot arm)
 * 2x HC-05 Bluetooth modules
 * GY-521 (MPU6050) accelerometer/gyroscope
 * Flex sensor
